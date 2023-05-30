@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.exe
+C:\Users\admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.pdb
+C:\Users\admin\source\repos\QLBH\QLBH\bin\Debug\QLBH.xml
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.vbproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.SignUp.resources
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.SignIn.resources
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.MainForm.resources
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.Restore_Pass.resources
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.Resources.resources
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.exe
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.xml
+C:\Users\admin\source\repos\QLBH\QLBH\obj\Debug\QLBH.pdb
